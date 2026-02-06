@@ -74,5 +74,11 @@ This project is for educational purposes only.
 
 <img width="631" height="545" alt="image" src="https://github.com/user-attachments/assets/4510d287-b7dd-42d4-a420-f648f9b46f12" />
 
+<img width="658" height="592" alt="image" src="https://github.com/user-attachments/assets/e7a43a53-df29-436f-878e-8d1bc9959009" />
+
+<img width="767" height="584" alt="image" src="https://github.com/user-attachments/assets/2f46c1fa-289b-4c2c-a9ad-d9cd66b575e2" />
+
+<img width="684" height="518" alt="image" src="https://github.com/user-attachments/assets/08fc7dbe-aaea-47a6-82d4-652b70846a55" />
+
 
 
